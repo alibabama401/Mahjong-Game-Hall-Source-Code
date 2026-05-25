@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🀄️ 麻将棋牌大厅源码 | 麻將棋牌大廳源碼 | Mahjong Game Hall Source Code
+# 🀄️ 麻将棋牌大厅源码 | 麻將棋牌大廳源碼 |麻将源码| Mahjong Game Hall Source Code
 
 **血流成河 · 血战到底 · 二人麻将 · 广东麻将**
 
